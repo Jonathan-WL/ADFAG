@@ -12,4 +12,4 @@ Execution:
 
 USB need needs to include:
 - - File 1: “Memory” – Winpmem
-- - Subdir 1: ”KAPE” – directory (copied from local install)
+- - Subdir 1: ”KAPE” – directory
